@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+mne
+scikit-learn
+torch
+braindecode
+-e .
